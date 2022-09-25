@@ -13,7 +13,7 @@ GGStopotS is a cheat to <a href="https://stopots.com">stopots.com</a> game. Is a
 The extension only works in Firefox (tested @ 105.0.1). To run this extension e.g. in chrome, it's necessary to change the `browser` object to `chrome`:
 
 from:
-```json
+```js
 browser.contextMenus.onClicked.addListener((info) => {
   language = info.menuItemId;
 
@@ -28,7 +28,7 @@ browser.contextMenus.onClicked.addListener((info) => {
 
 to: 
 
-```json
+```js
 browser.contextMenus.onClicked.addListener((info) => {
   language = info.menuItemId;
 
