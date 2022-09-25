@@ -40,7 +40,7 @@ browser.contextMenus.onClicked.addListener((info) => {
 
 ```
 
-> This change has not been tested!
+> This method has not been tested in chrome!
 
 ## How it Works
 
