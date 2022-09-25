@@ -1,12 +1,11 @@
 # GGStopotS
 
-<img src="src/assets/stopots.png" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="100" height="100">
+<img src="src/assets/stopots.png" align="right" width="100" height="100">
 
-GGStopotS is a cheat to <a href="https://stopots.com" target="_blank">stopots.com</a> game. Is a browser extension that allows you to get the stopots game solutions. The project's objective is to learn more about modify the behavior of the browser or web pages loaded by the browser.
+GGStopotS is a cheat to <a href="https://stopots.com">stopots.com</a> game. Is a browser extension that allows you to get the stopots game solutions. The project's objective is to learn more about modify the behavior of the browser or web pages loaded by the browser.
 
 <p align="center" style="margin-top: 120px">
-  <img src=".docs/print.png" alt="Size Limit CLI" width="738">
+  <img src=".docs/print.png">
 </p>
 
 ## Browser Compatibility
@@ -51,7 +50,7 @@ browser.contextMenus.onClicked.addListener((info) => {
 4. Enjoy
 
 <p align="center" style="margin-top: 120px">
-  <img src=".docs/ggstopots.gif" alt="Size Limit CLI" width="738">
+  <img src=".docs/ggstopots.gif">
 </p>
 
 ## Contribute
@@ -64,4 +63,9 @@ There are many ways in which you can participate in this project:
 
 ## Publish
 This extension is not published, use `about:debugging`.
+
+<p align="center" style="margin-top: 120px">
+  <img src=".docs/extension_load.png">
+</p>
+
 
