@@ -1,7 +1,7 @@
 # GGStopotS
 
 <img src="src/assets/stopots.png" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="120" height="128">
+     alt="Size Limit logo by Anton Lovchikov" width="100" height="100">
 
 GGStopotS is a cheat to <a href="https://stopots.com">stopots.com</a> game. Is a browser extension that allows you to get the stopots game solutions. The project's objective is to learn more about modify the behavior of the browser or web pages loaded by the browser.
 
