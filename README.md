@@ -5,7 +5,7 @@
 
 GGStopotS is a cheat to <a href="https://stopots.com">stopots.com</a> game. Is a browser extension that allows you to get the stopots game solutions. The project's objective is to learn more about modify the behavior of the browser or web pages loaded by the browser.
 
-<p align="center" style="margin-top: 120px">
+<p align="center" style="margin-top: 200px">
   <img src=".docs/print.png" alt="Size Limit CLI" width="738">
 </p>
 
